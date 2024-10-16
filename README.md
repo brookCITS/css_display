@@ -1,6 +1,4 @@
-# HTML Basics Project
-
-Welcome to your first HTML project.
+# CSS Displays
 
 ## Getting Started
 
