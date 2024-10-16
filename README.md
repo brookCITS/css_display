@@ -12,8 +12,8 @@ Make sure you have **Node.js** and **npm** installed on your system. You can dow
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/brookCITS/1_Intro-to-HTML.git
-   cd 1_Intro-to-HTML
+   git clone https://github.com/brookCITS/css_display
+   cd css_display
    ```
 2. **Install Dependencies**
 
